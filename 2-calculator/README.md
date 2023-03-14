@@ -1,4 +1,4 @@
-# 0-simple page :star:
+# 2-calculator :star:
 :newspaper:
 
 This is part of my process of learning react with freeCodeCamp
